@@ -1,6 +1,6 @@
 ## Available Scripts
 
-Go to gerenciar-funcionarios/frontend, and run:
+Go to frontend, and run:
 
 ### `yarn install`
 
