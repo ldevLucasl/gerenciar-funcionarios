@@ -1,0 +1,30 @@
+.Header {
+  background-color: #dbb000;
+}
+
+.Home {
+  font-size: 1.4rem;
+  color: #FFF;
+}
+
+.Home:hover {
+  color: #cc8033;
+  transition: 0.4s;
+}
+
+.Employee {
+  font-size: 1.4rem;
+  color: #FFF;
+}
+
+.Employee:hover {
+  color: #cc8033;
+  transition: 0.4s;
+}
+
+header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  max-height: 30px;
+}

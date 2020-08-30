@@ -1,0 +1,44 @@
+button.EditEmployee {
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: #dbb000;
+  color: #FFF;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button.EditEmployee:hover {
+  background-color: #cc8033;
+  transition: 0.4s;
+}
+
+button.RemoveEmployee {
+  width: 100%;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: #dbb000;
+  color: #FFF;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+button.RemoveEmployee:hover {
+  background-color: #cc8033;
+  transition: 0.4s;
+}
+
+.Buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
